@@ -6,6 +6,7 @@ It works with any digit from 0-9 and the symbols +,-,x,√
 
 > White blackground and black digits are necessary
 
+Check example.png for reference.
 
 ## Convolutional Neural Network
 * Two Convolutional Layers
