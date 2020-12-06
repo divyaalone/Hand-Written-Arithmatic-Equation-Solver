@@ -47,7 +47,7 @@ python3 -m venv venv
 ## Usage
 
 In the folder model, there is a pre-build model of the neural network and the weights of that model.
-But if you wanna build or train in your own hands, you need to create a folder called 'datasets' in the root of the project, download the datasets from *[here](https://www.kaggle.com/xainano/handwrittenmathsymbols)* and extract the folders 0, 1, 2, 3, 4 ,5, 6, 7, 8, 9, +, -, times (rename the folder for x)', sqrt (rename the folder for √) in the folder
+But if you wanna build or train in your own hands, you need to create a folder called 'datasets' in the root of the project, download the datasets from *[here](https://www.kaggle.com/xainano/handwrittenmathsymbols)* and extract the folders 0, 1, 2, 3, 4 ,5, 6, 7, 8, 9, +, -, times (rename the folder for x)', sqrt (rename the folder for √) in the folder and also delete the pre-existing files in model folder (do not delete the folder).
 
 After that you are ready to start the application. For that is just:
 ```bash
